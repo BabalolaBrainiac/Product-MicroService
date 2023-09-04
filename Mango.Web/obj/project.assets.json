@@ -8,24 +8,27 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/opeyemibabalola/.nuget/packages/": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/opeyemibabalola/Projects/Product/Mango.Web/Mango.Web.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Product-MicroService\\Mango.Web\\Mango.Web.csproj",
       "projectName": "Mango.Web",
-      "projectPath": "/Users/opeyemibabalola/Projects/Product/Mango.Web/Mango.Web.csproj",
-      "packagesPath": "/Users/opeyemibabalola/.nuget/packages/",
-      "outputPath": "/Users/opeyemibabalola/Projects/Product/Mango.Web/obj/",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Product-MicroService\\Mango.Web\\Mango.Web.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Product-MicroService\\Mango.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/opeyemibabalola/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
